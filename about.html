@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O nama</title>
+    <link rel="stylesheet" href="style.css"/>   
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat" rel="stylesheet"/>
+    <script src="script.js"></script>
+    <link rel="icon" href="Images/favicon.png" type="image/png"/>
+
+</head>
+<body>
+    <header>
+        <div class="wrapper" id="overflow">
+            <nav class="topnav" id="myTopnav">
+                <a href="main.xml" class="logo">CITATI</a>
+                <a href="login.php">PRIJAVA</a>
+                <a href="form.php">UNESI CITAT</a>
+                <a href="about.html">O NAMA</a>
+                <a href="javascript:void(0);" class="icon" onclick="hamburger()">
+                    <i class="fa fa-bars"></i>
+                </a>
+            </nav>
+        </div>
+    </header>
+    <div class="wrapper">
+        <section id="overflow">
+            <article>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2781.7974754342285!2d15.967324915568545!3d45.79528497910614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d68b441ce2df%3A0x54e2a03adf42446f!2sTehni%C4%8Dko%20veleu%C4%8Dili%C5%A1te%20u%20Zagrebu!5e0!3m2!1shr!2shr!4v1622409014905!5m2!1shr!2shr" width="100%" height="500" style="border:0;" allowfullscreen=""></iframe>
+            </article>
+            <article>
+                <h3>O NAMA</h3>
+                <p>Poveznica <a href="main.xml">CITATI</a> preusmjerava korisnika na početnu stranicu. Sadrži niz citata unesenih iz XML datoteke (main.xml) korištenjem PHP koda. XML datoteka povezana je s XSL datotekom (CITATI.xsl).</p>
+                <p>Poveznica <a href="login.php">PRIJAVA</a> sadrži formu koja omogućuje prijavu korisnika te njegove podatke upisuje u JSON datoteku (login.json).</p>
+                <p>Poveznica <a href="form.php">UNESI CITAT</a> sadrži formu koja omogućuje korisniku da samostalno unese citat. Uneseni citat se zatim upisuje u novi XML dokument (input.xml).</p>
+            </article>
+        </section>
+    </div>
+    <footer style="margin-top: 78px">
+        <center>
+            <p>Bernarda Brkić, bbrkic@tvz.hr</p>
+        </center>
+    </footer>
+</body>
+</html>

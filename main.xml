@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CITATI.xsl"?>
+<Citati>
+  <Unos>
+    <AutorObjave>Admin</AutorObjave>
+    <ImeAutora>Ernest </ImeAutora>
+    <PrezimeAutora>Hemingway</PrezimeAutora>
+    <Citat>Čovjek nije stvoren za neuspjeh. Čovjek može biti uništen, ali ne i poražen.</Citat>
+  </Unos>
+  <Unos>
+    <AutorObjave>Admin</AutorObjave>
+    <ImeAutora>Paulo </ImeAutora>
+    <PrezimeAutora>Coelho</PrezimeAutora>
+    <Citat>Bez obzira na ono što čini, svatko na zemlji uvijek igra glavnu ulogu u povijesti svijeta.</Citat>
+  </Unos>
+  <Unos>
+    <AutorObjave>Admin</AutorObjave>
+    <ImeAutora>Pablo </ImeAutora>
+    <PrezimeAutora>Picasso</PrezimeAutora>
+    <Citat>Tko želi nešto naučiti, nači će način; tko ne želi, naći će izliku.</Citat>
+  </Unos>
+  <Unos>
+    <AutorObjave>Admin</AutorObjave>
+    <ImeAutora>Albert </ImeAutora>
+    <PrezimeAutora>Einstein</PrezimeAutora>
+    <Citat>Ludilo je neprestano ponavljanje jedne te iste stvari uz očekivanje drgačijih ishoda.</Citat>
+  </Unos>
+  <Unos>
+    <AutorObjave>Admin</AutorObjave>
+    <ImeAutora>Muhammad </ImeAutora>
+    <PrezimeAutora>Ali</PrezimeAutora>
+    <Citat>Nisu planine na koje se trebaš popeti te koje te izmore; to je kamenčić u tvojoj cipeli.</Citat>
+  </Unos>
+  <Unos>
+    <AutorObjave>Admin</AutorObjave>
+    <ImeAutora>Ivo </ImeAutora>
+    <PrezimeAutora>Andrić</PrezimeAutora>
+    <Citat>Zvjezdanog neba i ljudskog srca nikad se čovjek neće moći nagledati.</Citat>
+  </Unos>
+  <Unos>
+    <AutorObjave>Admin</AutorObjave>
+    <ImeAutora>Jennifer </ImeAutora>
+    <PrezimeAutora>Aniston</PrezimeAutora>
+    <Citat>U životu ne postoje žaljenja, samo lekcije.</Citat>
+  </Unos>
+  <Unos>
+    <AutorObjave>Admin</AutorObjave>
+    <ImeAutora>Napoleon </ImeAutora>
+    <PrezimeAutora>Bonaparte</PrezimeAutora>
+    <Citat>Nemoj se bojati ljudi koji se ne slažu sa tobom, nego se boj kukavica koje se ne slažu sa tobom i koje ti to ne smiju reći.</Citat>
+  </Unos>
+  <Unos>
+    <AutorObjave>Admin</AutorObjave>
+    <ImeAutora>Mahatma </ImeAutora>
+    <PrezimeAutora>Gandhi</PrezimeAutora>
+    <Citat>Budi promjena koju želiš vidjeti u svijetu.</Citat>
+  </Unos>
+  <Unos>
+    <AutorObjave>Admin</AutorObjave>
+    <ImeAutora>Thomas A. </ImeAutora>
+    <PrezimeAutora>Edison</PrezimeAutora>
+    <Citat>Nisam zakazao. Jednostavno sam otkrio 10 000 načina koji ne funkcioniraju.</Citat>
+  </Unos>
+</Citati>
