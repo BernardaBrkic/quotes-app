@@ -21,6 +21,7 @@ The main content will be visible once you open the **`main.xml`** file.
 
 ## Tech and tools used
 
+<div>
 <img alt="XML" src="https://cdn-icons-png.flaticon.com/512/136/136526.png" width="50px" />
 <img alt="XSLT" src="https://cdn3.iconfinder.com/data/icons/files-67/240/transforming_hml_file_xslt-512.png" width="50px" />
 <img alt="JSON" src="https://cdn-icons-png.flaticon.com/512/136/136525.png" width="50px" />
@@ -28,3 +29,4 @@ The main content will be visible once you open the **`main.xml`** file.
 <img alt="HTML" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50px" />
 <img alt="CSS" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px" />
 <img alt="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px" />
+</div>
