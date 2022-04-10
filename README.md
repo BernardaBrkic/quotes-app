@@ -3,7 +3,7 @@
 `Quotes app` is a project that allows users to read handpicked quotes from various authors, including philosophers, writers, spiritual thinkers, great leaders, actors, singers, etc. Users can also register and publish quotes they identify with. 
 
 
-The project was created for university subject called "XML programming".  
+The project was created for a university subject called "XML programming".  
   
 <hr><br>
   
